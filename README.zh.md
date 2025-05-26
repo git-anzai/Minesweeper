@@ -5,7 +5,7 @@
 这是一个使用Next.js、React、ShadCN UI、Tailwind CSS构建的交互式扫雷游戏，并集成了Genkit提供AI提示功能。
 
 ## 功能特点
-
+[Watch Demo Video](./demo.mp4)
 * **经典扫雷玩法**：揭开方块、避开地雷，使用数字推断地雷位置。
 * **交互式游戏面板**：
     * **左键点击**：揭开一个方块。

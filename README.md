@@ -5,7 +5,7 @@
 This is an interactive Minesweeper game built with Next.js, React, ShadCN UI, Tailwind CSS, and Genkit for AI-powered hints.
 
 ## Features
-
+[Watch Demo Video](./demo.mp4)
 *   **Classic Minesweeper Gameplay**: Uncover cells, avoid mines, and use numbers to deduce mine locations.
 *   **Interactive Board**:
     *   **Left-click**: Reveal a cell.
